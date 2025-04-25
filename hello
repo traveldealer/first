@@ -4,7 +4,7 @@ print("Hello world!")
 
 # New file to test workflow in Python
 
-print("Hello, world!222")
+print("Hello, world!")
 
 # Output not odd values from 1 to 40
 for i in range(0, 25):
